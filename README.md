@@ -2,21 +2,21 @@
 
 Este repositorio reúne el material complementario presentado en la ponencia:
 
-📌 **“Dinámica cuántica fuera del equilibrio: estudio analítico de una partícula bajo un quench armónico.”**
+**“Dinámica cuántica fuera del equilibrio: estudio analítico de una partícula bajo un quench armónico.”**
 Ponente: *Diego Alejandro Acosta Vega*
 Evento: XXX Congreso Nacional de Física, Colombia.
 Duración: 12 min + 3 min preguntas.
 
 ---
 
-## 📄 Artículo base
+##  Artículo base
 - Souza, Y. de O., Ribeiro, C. C. H., & De Lorenci, V. A.
   *Analytical solutions for the quantum Brownian motion of a particle during a quantum quench*.
   [DOI / enlace oficial](https://doi.org/10.48550/arXiv.2501.16611)
 
 ---
 
-## 📚 Artículos relacionados
+##  Artículos relacionados
 - Yu, H. & Ford, L. H.
   *Vacuum fluctuations and Brownian motion of a charged particle near a reflecting boundary*.
   [DOI / enlace oficial](https://doi.org/10.1103/PhysRevD.70.065009)
@@ -27,7 +27,7 @@ Duración: 12 min + 3 min preguntas.
 
 ---
 
-## 📝 Material complementario
+##  Material complementario
 - **Documento de apoyo**: desarrollo de pasos intermedios del modelo [PDF](./docs/pasos_intermedios.pdf)  
 - **Presentación extendida**: versión larga de la ponencia con detalles adicionales [PDF](./slides/presentacion_extend.pdf)  
 - **Slides presentados en el congreso** [PDF](./slides/ponencia_congreso.pdf)
