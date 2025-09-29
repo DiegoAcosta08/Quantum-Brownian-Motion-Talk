@@ -2,7 +2,7 @@
 
 Este repositorio reúne el material complementario presentado en la ponencia:
 
-📌 **“Analytical Solutions for the Quantum Brownian Motion of a Particle During a Quantum Quench”**
+📌 **“Dinámica cuántica fuera del equilibrio: estudio analítico de una partícula bajo un quench armónico.”**
 Ponente: *Diego Alejandro Acosta Vega*
 Evento: XXX Congreso Nacional de Física, Colombia.
 Duración: 12 min + 3 min preguntas.
