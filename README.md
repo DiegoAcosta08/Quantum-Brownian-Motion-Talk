@@ -5,7 +5,6 @@ Este repositorio reúne el material complementario presentado en la ponencia:
 **“Dinámica cuántica fuera del equilibrio: estudio analítico de una partícula bajo un quench armónico.”**
 Ponente: *Diego Alejandro Acosta Vega*
 Evento: XXX Congreso Nacional de Física, Colombia.
-Duración: 12 min + 3 min preguntas.
 
 ---
 
