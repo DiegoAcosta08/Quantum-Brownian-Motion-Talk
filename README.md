@@ -1,43 +1,43 @@
-# Quantum Brownian Motion – Ponencia XXX Congreso Nacional de Física
+# Quantum Brownian Motion – Presentation at the XXX National Physics Congress
 
-Este repositorio reúne el material complementario presentado en la ponencia:
+This repository gathers the supplementary material presented in the talk:
 
-**“Dinámica cuántica fuera del equilibrio: estudio analítico de una partícula bajo un quench armónico.”**
-Ponente: *Diego Alejandro Acosta Vega*
-Evento: XXX Congreso Nacional de Física, Colombia.
-
----
-
-##  Artículo base
-- Souza, Y. de O., Ribeiro, C. C. H., & De Lorenci, V. A.
-  *Analytical solutions for the quantum Brownian motion of a particle during a quantum quench*.
-  [DOI / enlace oficial](https://doi.org/10.48550/arXiv.2501.16611)
+**“Out-of-equilibrium quantum dynamics: analytical study of a particle under a harmonic quench.”**  
+Speaker: *Diego Alejandro Acosta Vega*  
+Tutor: *PhD. Jhon Hernan Díaz Forero*
+Event: XXX National Physics Congress, Colombia.
 
 ---
 
-##  Artículos relacionados
-- Yu, H. & Ford, L. H.
-  *Vacuum fluctuations and Brownian motion of a charged particle near a reflecting boundary*.
-  [DOI / enlace oficial](https://doi.org/10.1103/PhysRevD.70.065009)
-
-- Tsekov R.
-  *Brownian motion of a classical particle in quantum environment*
-  [DOI / enlace oficial](https://doi.org/10.1016/j.physleta.2017.06.037)
+##  Main Article
+- Souza, Y. de O., Ribeiro, C. C. H., & De Lorenci, V. A.  
+  *Analytical solutions for the quantum Brownian motion of a particle during a quantum quench*.  
+  [DOI / official link](https://doi.org/10.48550/arXiv.2501.16611)
 
 ---
 
-##  Material complementario
-- **Documento de apoyo**: desarrollo de pasos intermedios del modelo [PDF](./docs/pasos_intermedios.pdf)  
-- **Poster presentación**: poster con detalles sobre el desarrollo matemático de algunos conceptos del artículo [PDF](./slides/presentacion_extend.pdf)  
-- **Slides presentados en el congreso** [PDF](./slides/ponencia_congreso.pdf)
+##  Related Articles
+- Yu, H. & Ford, L. H.  
+  *Vacuum fluctuations and Brownian motion of a charged particle near a reflecting boundary*.  
+  [DOI / official link](https://doi.org/10.1103/PhysRevD.70.065009)
+
+- Tsekov, R.  
+  *Brownian motion of a classical particle in quantum environment*  
+  [DOI / official link](https://doi.org/10.1016/j.physleta.2017.06.037)
 
 ---
 
-## 📬 Contacto
-Si tienes preguntas o comentarios sobre este trabajo, no dudes en escribirme:  
+##  Supplementary Material
+- **Supporting document**: development of intermediate steps of the model [PDF](./docs/pasos_intermedios.pdf)  
+- **Presentation poster**: poster with details about the mathematical development of some concepts from the article [PDF](./slides/presentacion_extend.pdf)  
+- **Slides presented at the congress** [PDF](./slides/ponencia_congreso.pdf)
+
+---
+
+## 📬 Contact
+If you have questions or comments about this work, feel free to write to me:  
 ✉️ [dacosta@udistrital.edu.co]
 
 ---
 
-🔗 *Este repositorio es de acceso abierto para fines académicos y de divulgación.*
-
+🔗 *This repository is openly available for academic and outreach purposes.*
