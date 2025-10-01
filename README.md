@@ -29,7 +29,7 @@ Duración: 12 min + 3 min preguntas.
 
 ##  Material complementario
 - **Documento de apoyo**: desarrollo de pasos intermedios del modelo [PDF](./docs/pasos_intermedios.pdf)  
-- **Presentación extendida**: versión larga de la ponencia con detalles adicionales [PDF](./slides/presentacion_extend.pdf)  
+- **Poster presentación**: poster con detalles sobre el desarrollo matemático de algunos conceptos del artículo [PDF](./slides/presentacion_extend.pdf)  
 - **Slides presentados en el congreso** [PDF](./slides/ponencia_congreso.pdf)
 
 ---
